@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: db-config-2022bcd0041
+data:
+  DB_HOST: postgres-service
+  DB_NAME: mydatabase
