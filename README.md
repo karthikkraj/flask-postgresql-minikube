@@ -96,7 +96,7 @@ CREATE TABLE IF NOT EXISTS users (
 
 ## Author
 [Karthik Raj](https://github.com/karthikkraj)
-Register Number: 2022bcd0041
+- Register Number: 2022bcd0041
 
 ## License
 This project is for academic and educational purposes under IOE324 – Introduction to DevOps and Microservices.
